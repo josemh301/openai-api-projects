@@ -4,7 +4,11 @@ Welcome to my repository where I demonstrate my expertise with OpenAI's GPT and 
 
 This project is an exploration into the powerful capabilities of GPT via the OpenAI API, focusing on practical applications in programming and automation tasks. Alongside GPT, LangChain is utilized to enhance the development and interaction with AI-driven functionalities.
 
-## What's Inside
+## Projects
+- **Electric cars**: delegate to GPT the creation of python scripts to get insights from the electric car market
+- **Finance**: \to be completed\
+
+## What Do I Vover
 
 - **OpenAI API Integration**: Setting up an OpenAI developer account and integrating it with Workspace.
 - **Chat with GPT**: Leveraging the chat functionality in the OpenAI API, both directly and enhanced with LangChain.

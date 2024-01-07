@@ -6,9 +6,9 @@ This project is an exploration into the powerful capabilities of GPT via the Ope
 
 ## Projects
 - **Electric cars**: delegate to GPT the creation of python scripts to get insights from the electric car market
-- **Finance**: \to be completed\
+- **Financial Sentiment Analysis**: run sentiment analysis using Langchain Tools and Output Parser
 
-## What Do I Vover
+## What Do I Cover
 
 - **OpenAI API Integration**: Setting up an OpenAI developer account and integrating it with Workspace.
 - **Chat with GPT**: Leveraging the chat functionality in the OpenAI API, both directly and enhanced with LangChain.

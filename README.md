@@ -9,6 +9,7 @@ Welcome to my repository where I demonstrate my expertise with OpenAI's API and 
 - **Video Processing AI**: The project aims to extract information from YouTube videos using OpenAI's Whisper for transcriptions, embeddings for semantic analysis or search, and Langchain for additional processing or querying capabilities.
 ### Pipecone
 - **Semantic Search**: Ouperform traditional keyword-based search 
+- **RAG for movie data**: Developed a project that enhances a language model's factual response capabilities by integrating Retrieval-Augmented Generation (RAG) for searching and analyzing movie data.
 
 ## What Do I Cover
 

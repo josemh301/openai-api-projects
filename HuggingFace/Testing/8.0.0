@@ -1,0 +1,2 @@
+Requirement already satisfied: pyarrow in c:\users\josem\anaconda3\lib\site-packages (11.0.0)
+Requirement already satisfied: numpy>=1.16.6 in c:\users\josem\anaconda3\lib\site-packages (from pyarrow) (1.24.4)

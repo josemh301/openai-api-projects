@@ -10,6 +10,11 @@ Welcome to my repository where I demonstrate my expertise with OpenAI's API and 
 ### Pipecone
 - **Semantic Search**: Ouperform traditional keyword-based search 
 - **RAG for movie data**: Developed a project that enhances a language model's factual response capabilities by integrating Retrieval-Augmented Generation (RAG) for searching and analyzing movie data.
+- 
+
+### Hugging Face
+- **Hugging Face Pipeline**: implement default and chosen models for NLP tasks
+- **Hugging Face Tokenizer and Model**: _to be completed_
 
 ## What Do I Cover
 
@@ -27,3 +32,4 @@ Welcome to my repository where I demonstrate my expertise with OpenAI's API and 
 - OpenAI Embeddings
 - Langchain
 - Pipecone API
+- Hugging Face

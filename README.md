@@ -15,6 +15,7 @@ Welcome to my repository where I demonstrate my expertise with OpenAI's API and 
 ### Hugging Face
 - **Hugging Face Pipeline**: implement default and chosen models for NLP tasks
 - **Hugging Face Tokenizer and Model**: _to be completed_
+- **Hugging Face Sentiment Analysis**
 
 ## What Do I Cover
 

@@ -5,6 +5,7 @@
 # Ignore specific files
 *.csv
 *.txt
+*.mp3
 getting-started.ipynb
 notebook-solution.ipynb
 
